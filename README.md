@@ -17,3 +17,5 @@ A dedicated **"Good Stock Data"** sheet was created to highlight stocks classifi
 
 ### 3. 📊 Graphs and Insights
 The dashboard features various graphs that visually represent key data metrics and trends, providing actionable insights for users.
+
+Here is the google sheet link https://docs.google.com/spreadsheets/d/1uZ_lkuI-a6QKKct_qDvBSE8_i84C5dhUEZ0dIjbGcq4/edit?gid=783967332#gid=783967332
